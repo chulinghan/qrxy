@@ -1,0 +1,162 @@
+.navbar-default .navbar-brand{
+	font-size: 30px;
+	font-weight: bold;
+	color: yellowgreen;
+}
+.navbar-default .navbar-nav >li>a{
+	font-size: 14px;
+	font-weight: bold;
+	color: #666693;
+	height: 70px;
+	line-height: 35px;
+	
+}
+.navbar-default .navbar-toggle:hover{
+	background: yellowgreen;
+}
+.navbar{
+	margin-bottom: 0px;
+}
+#home{
+	width: 100%;
+	background-image: url(../img/home-bg.jpg);
+	background-size: cover;
+	color: #FFFFFF;
+	text-align: center;
+}
+.mengban{
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.5);
+}
+#home h1{
+	font-weight: bold;
+	font-size: 30px;
+	margin: 100px auto 20px auto;
+}
+#home p{
+	font-weight: bold;
+	line-height: 20px;
+}
+#home img{
+	display: inline-block;
+	margin-top: 10px;
+	margin: 50px;
+}
+.Development{
+	width: 100%;
+	/*height: 380px;*/
+	background: #FFFFFF;
+}
+.Development .container{
+	margin: 100px auto;
+	text-align: center;
+}
+.htm5{
+	background: gray;
+	width: 100%;
+	/*height: 420px;*/
+}
+.htm5 .container{
+	/*margin: 10px auto;*/
+	padding: 70px;
+}
+.Vue{
+	background: #FFFFFF;
+}
+.course{
+	background: gray;
+}
+.course h2{
+	text-align: center;
+}
+.course .study{
+	width: 250px;
+	height: 240px;
+	margin: 10px;
+	background: #FFFFFF;
+}
+.course .study img{
+	width: 247px;
+	height: 150px;
+}
+.course .study a{
+	display: inline-block;
+	border: 1px solid cyan;
+	width: 130px;
+	margin: 30px 60px;
+	text-align: center;
+	font-size: 16px;
+	text-decoration: none;
+	color: #000000;
+}
+.app{
+	background: #FFFFFF;
+}
+.app p{
+	margin: 50px auto;
+	font-size: 16px;
+}
+.app span{
+	background: #41d2b1;
+	width: 140px;
+	padding: 10px 40px;
+	font-size: 16px;
+	font-weight: bold;
+	cursor: pointer;
+}
+.app img{
+	width: 555px;
+	height: 300px;
+}
+.contact{
+	background: url(../img/contact-bg.png);
+	width: 100%;
+	background-size: cover;
+	color: #FFFFFF;
+}
+.contact h2{
+	font-weight: bold;
+}
+.contact p{
+	font-size: 16px;
+	margin: 30px auto;
+}
+.contact .s1 input{
+	display: inline-block;
+	width: 200px;
+	height: 50px;
+	margin: 15px 20px;
+	float: left;
+}
+.contac .s2 input{
+	display: inline-block;
+	width: 440px;
+	height: 50px;
+	margin: 15px 20px;
+}
+.contact .s3 input{
+	display: inline-block;
+	width: 440px;
+	height: 80px;
+	margin: 15px 20px;
+}
+.contact .s4 input{
+	display: inline-block;
+	width: 300px;
+	height: 30px;
+	margin: 15px 20px;
+	background: #3fd1b0;
+}
+.foot{
+	background: #272822;
+	color: #FFFFFF;
+	width: 100%;
+	height: 50px;
+}
+.foot .ff p{
+	text-align: center;
+	margin: 30px auto;
+	font-size: 16px;
+	
+}
